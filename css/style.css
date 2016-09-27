@@ -1,0 +1,40 @@
+
+.present {
+	top: 30px!important;
+}
+.logo {
+	width: 30%;
+}
+#left {
+	text-align: left;
+	margin-left: 318px;
+	margin-top: 25px;
+}
+h6 {
+	text-transform: capitalize!important;
+}
+.left {
+	float: left!important;
+	width: 30%;
+	margin-right: 3%!important;
+}
+.left img {
+	width: 60%;
+}
+blockquote {
+	width: 100%!important;
+}
+.status {
+	margin:0 -5%!important;
+}
+.reveal #tofu {
+	width: 40%!important;
+	margin: 0px!important;
+    background: none!important;
+   	border: 0px!important;
+    box-shadow: 0 0 0px!important;
+    margin-top:-26px!important;
+}
+.big h1 {
+	font-size: 8em!important;
+}
