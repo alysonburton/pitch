@@ -1,4 +1,8 @@
 
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p, .reveal li, .reveal blockquote {
+	color: white!important;
+}
+
 .present {
 	top: 30px!important;
 }
@@ -33,8 +37,24 @@ blockquote {
     background: none!important;
    	border: 0px!important;
     box-shadow: 0 0 0px!important;
-    margin-top:-26px!important;
+    
 }
 .big h1 {
 	font-size: 8em!important;
+}
+
+body{
+	background-color: #008aaf!important;
+}
+img.logo{
+	background: none!important;
+   	/*border: 0px!important;*/
+    /*box-shadow: 0 0 0px!important;*/
+    padding: 15px 15px 0 15px;
+}
+.left-align{
+	text-align: left!important;
+}
+.mission{
+	margin-bottom: -10px!important;	
 }
